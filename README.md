@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gagan31498/LeetcodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gagan31498/LeetcodePractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gagan31498/LeetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
@@ -52,4 +54,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
