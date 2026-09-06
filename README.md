@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/gagan31498/LeetcodePractice/tree/master/0115-distinct-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/gagan31498/LeetcodePractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/gagan31498/LeetcodePractice/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
