@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gagan31498/LeetcodePractice/tree/master/0029-divide-two-integers) |
 | [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-count-commas-in-range](https://github.com/gagan31498/LeetcodePractice/tree/master/3870-count-commas-in-range) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gagan31498/LeetcodePractice/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/gagan31498/LeetcodePractice/tree/master/0260-single-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
