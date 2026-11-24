@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gagan31498/LeetcodePractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gagan31498/LeetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gagan31498/LeetcodePractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gagan31498/LeetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gagan31498/LeetcodePractice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gagan31498/LeetcodePractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gagan31498/LeetcodePractice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gagan31498/LeetcodePractice/tree/master/0029-divide-two-integers) |
 | [1872-stone-game-viii](https://github.com/gagan31498/LeetcodePractice/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gagan31498/LeetcodePractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/gagan31498/LeetcodePractice/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gagan31498/LeetcodePractice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gagan31498/LeetcodePractice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gagan31498/LeetcodePractice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gagan31498/LeetcodePractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gagan31498/LeetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
